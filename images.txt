@@ -1,2 +1,2 @@
 alpine
-registry.cn-hangzhou.aliyuncs.com/mtphotos/mt-photos:latest
+python:alpine3.19
