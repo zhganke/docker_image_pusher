@@ -1,4 +1,7 @@
 alpine
 python:alpine3.19
 registry.cn-hangzhou.aliyuncs.com/mtphotos/mt-photos:latest
-
+centos:centos7
+nginx:latest
+node:latest
+mysql:latest
