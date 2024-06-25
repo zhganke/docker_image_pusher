@@ -5,3 +5,4 @@ centos:centos7
 nginx:latest
 node:latest
 mysql:latest
+mtphotos/mt-photos-ai:latest
